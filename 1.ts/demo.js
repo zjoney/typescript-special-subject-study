@@ -7,13 +7,13 @@ var __classPrivateFieldSet =
     privateMap.set(receiver, value);
     return value;
   };
-var _yideng;
+var _maria;
 var Test = (function () {
   function Test() {
-    _yideng.set(this, 20);
-    __classPrivateFieldSet(this, _yideng, 30);
+    _maria.set(this, 20);
+    __classPrivateFieldSet(this, _maria, 30);
   }
   return Test;
 })();
-_yideng = new WeakMap();
+_maria = new WeakMap();
 var test = new Test();

@@ -1,7 +1,7 @@
 class Test {
-  #yideng = 20;
+  #maria = 20;
   constructor() {
-    this.#yideng = 30;
+    this.#maria = 30;
   }
 }
 const test = new Test();

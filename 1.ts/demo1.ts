@@ -8,5 +8,5 @@ function init(...info: TCtor) {
   console.log('[ name ]', uname);
 }
 
-init('京程一灯🏮', 20);
+init('玛利亚', 20);
 //ioc

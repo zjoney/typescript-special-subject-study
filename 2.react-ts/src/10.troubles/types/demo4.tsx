@@ -1,4 +1,4 @@
-//啥是unique symbol
+// unique symbol
 // const sym = Symbol('foo');
 
 // function extendObject(obj: any, sym: symbol, value: any) {
