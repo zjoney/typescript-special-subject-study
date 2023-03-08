@@ -38,4 +38,4 @@ class UserService implements IUserService {
 const ioc = new CreateIoc();
 ioc.bind('userService', UserService);
 const user = ioc.use<IUserService>('userService');
-user.test('京程一灯🏮');
+user.test('玛利亚');
